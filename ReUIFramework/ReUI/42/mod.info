@@ -1,0 +1,7 @@
+name=Re:UI Foundation
+id=ReUI
+description=Open-source UI framework, layout engine, component system and window manager for Project Zomboid Build 42.
+poster=poster.png
+icon=icon.png
+modversion=0.20.0
+pzversion=42
